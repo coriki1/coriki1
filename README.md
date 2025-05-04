@@ -4,7 +4,7 @@
 
 - 📚 Studying computer engineering at Budapest University of Technology (BME)
 
-- 🌱 Exploring the fundamentals of **C programming**
+- 🌱 Exploring the fundamentals of **C/C++ programming**
 
 - 🐧 I am also interested in linux **(I use arch btw)**
 
