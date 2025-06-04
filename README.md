@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richárd Kotyor!</h1>
+<h1 align="center">Hi , I'm Richárd Kotyor!</h1>
 <h3 align="center">🖥️ I'm an aspiring beginner developer from hungary.</h3>
 
 
